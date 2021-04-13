@@ -1,0 +1,192 @@
+{
+	"v-bg directive": {
+		"prefix": "vbg",
+		"body": [
+			"v-bg=\"$1\""
+		],
+		"description": "v-bg directive"
+	},
+	"v-c directive": {
+		"prefix": "vc",
+		"body": [
+			"v-c=\"$1\""
+		],
+		"description": "v-c directive"
+	},
+
+	"v-p-y directive": {
+		"prefix": "vpy",
+		"body": [
+			"v-p-y=\"$1\""
+		],
+		"description": "v-p-y directive"
+	},
+	"v-p-x directive": {
+		"prefix": "vpx",
+		"body": [
+			"v-p-x=\"$1\""
+		],
+		"description": "v-p-x directive"
+	},
+
+	"v-p-t directive": {
+		"prefix": "vpt",
+		"body": [
+			"v-p-t=\"$1\""
+		],
+		"description": "v-p-t directive"
+	},
+	"v-p-b directive": {
+		"prefix": "vpb",
+		"body": [
+			"v-p-b=\"$1\""
+		],
+		"description": "v-p-b directive"
+	},
+	"v-p-l directive": {
+		"prefix": "vpl",
+		"body": [
+			"v-p-l=\"$1\""
+		],
+		"description": "v-p-l directive"
+	},
+	"v-p-r directive": {
+		"prefix": "vpr",
+		"body": [
+			"v-p-r=\"$1\""
+		],
+		"description": "v-p-r directive"
+	},
+
+	"v-m-y directive": {
+		"prefix": "vmy",
+		"body": [
+			"v-m-y=\"$1\""
+		],
+		"description": "v-m-y directive"
+	},
+	"v-m-x directive": {
+		"prefix": "vmx",
+		"body": [
+			"v-m-x=\"$1\""
+		],
+		"description": "v-m-x directive"
+	},
+
+	"v-m-t directive": {
+		"prefix": "vmt",
+		"body": [
+			"v-m-t=\"$1\""
+		],
+		"description": "v-m-t directive"
+	},
+	"v-m-b directive": {
+		"prefix": "vmb",
+		"body": [
+			"v-m-b=\"$1\""
+		],
+		"description": "v-m-b directive"
+	},
+	"v-m-l directive": {
+		"prefix": "vml",
+		"body": [
+			"v-m-l=\"$1\""
+		],
+		"description": "v-m-l directive"
+	},
+	"v-m-r directive": {
+		"prefix": "vmr",
+		"body": [
+			"v-m-r=\"$1\""
+		],
+		"description": "v-m-r directive"
+	},
+
+	"v-radius directive": {
+		"prefix": "vradius",
+		"body": [
+			"v-radius=\"$1\""
+		],
+		"description": "v-radius= directive"
+	},
+	"v-border directive": {
+		"prefix": "vborder",
+		"body": [
+			"v-border=\"{$1}\""
+		],
+		"description": "v-border directive"
+	},
+
+	"v-cursor directive": {
+		"prefix": "vcursor",
+		"body": [
+			"v-cursor=\"$1\""
+		],
+		"description": "v-cursor directive"
+	},
+
+	"v-d-flex directive": {
+		"prefix": "vdflex",
+		"body": [
+			"v-d-flex=\"{$1}\""
+		],
+		"description": "v-d-flex directive"
+	},
+	"v-d-grid directive": {
+		"prefix": "vdgrid",
+		"body": [
+			"v-d-grid=\"{$1}\""
+		],
+		"description": "v-d-grid directive"
+	},
+	"v-align directive": {
+		"prefix": "valign",
+		"body": [
+			"v-align=\"{$1}\""
+		],
+		"description": "v-align directive"
+	},
+	"v-justify directive": {
+		"prefix": "vjustify",
+		"body": [
+			"v-justify=\"{$1}\""
+		],
+		"description": "v-justify directive"
+	},
+	"v-grow directive": {
+		"prefix": "vgrow",
+		"body": [
+			"v-grow=\"$1\""
+		],
+		"description": "v-grow directive"
+	},
+	"v-shrink directive": {
+		"prefix": "vshrink",
+		"body": [
+			"v-shrink=\"$1\""
+		],
+		"description": "v-shrink directive"
+	},
+
+	"v-f-weight directive": {
+		"prefix": "vfweight",
+		"body": [
+			"v-f-weight=\"$1\""
+		],
+		"description": "v-f-weight directive"
+	},
+	"v-f-size directive": {
+		"prefix": "vfsize",
+		"body": [
+			"v-f-size=\"$1\""
+		],
+		"description": "v-f-size directive"
+	},
+	"v-f-style directive": {
+		"prefix": "vfstyle",
+		"body": [
+			"v-f-style=\"$1\""
+		],
+		"description": "v-f-style directive"
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"name": "fabrique-directives-snippets",
+	"displayName": "Fabrique Directive Snippets",
+	"description": "Code snippets for custom vue directives that we use.",
+	"version": "0.0.1",
+	"publisher": "Alan",
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"keywords": [
+    "Vue",
+    "Vue Snippets"
+  ],
+	"extensionDependencies": [
+    "octref.vetur"
+  ],
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "vue-html",
+				"path": "./snippets/vue-html.json"
+			}
+		]
+	}
+}
