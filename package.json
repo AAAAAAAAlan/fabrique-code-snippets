@@ -1,8 +1,8 @@
 {
-	"name": "fabrique-directives-snippets",
-	"displayName": "Fabrique Directive Snippets",
+	"name": "fabrique-code-snippets",
+	"displayName": "Fabrique Code Snippets",
 	"description": "Code snippets for custom vue directives that we use.",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"publisher": "Alan",
 	"engines": {
 		"vscode": "^1.28.0"
@@ -21,7 +21,31 @@
 		"snippets": [
 			{
 				"language": "vue-html",
-				"path": "./snippets/vue-html.json"
+				"path": "./snippets/border.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/bounds.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/colors.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/cursor.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/flexGrid.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/sizes.json"
+			},
+			{
+				"language": "vue-html",
+				"path": "./snippets/text.json"
 			}
 		]
 	}

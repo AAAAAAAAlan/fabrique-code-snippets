@@ -1,0 +1,30 @@
+{
+  "v-width directive": {
+		"prefix": "vwidth",
+		"body": [
+			"v-width=\"$1\""
+		],
+		"description": "v-width directive"
+	},
+  "v-max-width directive": {
+		"prefix": "vmaxwidth",
+		"body": [
+			"v-max-width=\"$1\""
+		],
+		"description": "v-max-width directive"
+	},
+  "v-height directive": {
+		"prefix": "vheight",
+		"body": [
+			"v-height=\"$1\""
+		],
+		"description": "v-height directive"
+	},
+  "v-max-height directive": {
+		"prefix": "vmaxheight",
+		"body": [
+			"v-max-height=\"$1\""
+		],
+		"description": "v-max-height directive"
+	}
+}

@@ -1,0 +1,44 @@
+{
+  "v-d-flex directive": {
+		"prefix": "vdflex",
+		"body": [
+			"v-d-flex=\"{$1}\""
+		],
+		"description": "v-d-flex directive"
+	},
+	"v-d-grid directive": {
+		"prefix": "vdgrid",
+		"body": [
+			"v-d-grid=\"{$1}\""
+		],
+		"description": "v-d-grid directive"
+	},
+	"v-align directive": {
+		"prefix": "valign",
+		"body": [
+			"v-align=\"{$1}\""
+		],
+		"description": "v-align directive"
+	},
+	"v-justify directive": {
+		"prefix": "vjustify",
+		"body": [
+			"v-justify=\"{$1}\""
+		],
+		"description": "v-justify directive"
+	},
+	"v-grow directive": {
+		"prefix": "vgrow",
+		"body": [
+			"v-grow=\"$1\""
+		],
+		"description": "v-grow directive"
+	},
+	"v-shrink directive": {
+		"prefix": "vshrink",
+		"body": [
+			"v-shrink=\"$1\""
+		],
+		"description": "v-shrink directive"
+	}
+}

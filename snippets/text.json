@@ -1,0 +1,23 @@
+{
+  "v-f-weight directive": {
+		"prefix": "vfweight",
+		"body": [
+			"v-f-weight=\"$1\""
+		],
+		"description": "v-f-weight directive"
+	},
+	"v-f-size directive": {
+		"prefix": "vfsize",
+		"body": [
+			"v-f-size=\"$1\""
+		],
+		"description": "v-f-size directive"
+	},
+	"v-f-style directive": {
+		"prefix": "vfstyle",
+		"body": [
+			"v-f-style=\"$1\""
+		],
+		"description": "v-f-style directive"
+	}
+}

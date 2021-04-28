@@ -1,0 +1,9 @@
+{
+  "v-cursor directive": {
+		"prefix": "vcursor",
+		"body": [
+			"v-cursor=\"$1\""
+		],
+		"description": "v-cursor directive"
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "v-bg directive": {
+    "prefix": "vbg",
+    "body": [
+      "v-bg=\"$1\""
+    ],
+    "description": "v-bg directive"
+  },
+  "v-c directive": {
+    "prefix": "vc",
+    "body": [
+      "v-c=\"$1\""
+    ],
+    "description": "v-c directive"
+  }
+}

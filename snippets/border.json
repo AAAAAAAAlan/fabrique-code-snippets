@@ -1,0 +1,16 @@
+{
+  "v-radius directive": {
+		"prefix": "vradius",
+		"body": [
+			"v-radius=\"$1\""
+		],
+		"description": "v-radius= directive"
+	},
+	"v-border directive": {
+		"prefix": "vborder",
+		"body": [
+			"v-border=\"{$1}\""
+		],
+		"description": "v-border directive"
+	}
+}
